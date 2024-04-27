@@ -1,5 +1,6 @@
 from pygame import *
 from random import *
+print("hello")
 
 
 window = display.set_mode((700, 500))
